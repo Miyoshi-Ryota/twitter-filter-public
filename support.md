@@ -1,5 +1,3 @@
-> 公開前の確認用：Googleフォームの公開URLを設定してから公開します。
-
 # サポート
 
 Safariで読むXの表示を、自分に合う条件で整えるための拡張機能です。
@@ -46,7 +44,7 @@ X側の画面変更により検出漏れや誤判定が起こることがあり�
 
 ## お問い合わせ
 
-お問い合わせフォームは公開準備中です。
+[お問い合わせフォーム（Googleフォーム）](https://docs.google.com/forms/d/e/1FAIpQLSdS4WRcqO-eJSECmCb9nKEI5sHX72DLnyuUG3F9dUmi-PNBPA/viewform)
 
 運営者：App Storeに掲載される本アプリの販売元
 
